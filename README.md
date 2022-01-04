@@ -13,7 +13,7 @@
 * Realizando consultas
 ## Modulo 5 - Biblioteca Numpy e Pandas - MOD5
 * Exercicios de Manipulação das bibliotecas
-## Modulo 6 - Analise e Manipulação dos dados
+## Modulo 6 - Analise e Manipulação dos dados - MOD6
 * Analisando o Dataset do **Titanic** - MOD6_EXE1
 * Exercicio utilizando o Meshgrid do Numpy - MOD6_EXE2
 ## Modulo 7 - Pre-Processamento dos Dados - MOD7
