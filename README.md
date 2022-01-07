@@ -1,4 +1,4 @@
-# Tarefas realizas no Curso de Especialista em Ciencia de Dados do Zero ao PRO na Escola Mentorama
+# Tarefas realizas no Curso de Especialista em Ciencia de Dados do Zero ao PRO - Mentorama
 
 ## Modulo 1 - Introdução a Ciencia de Dados - MOD1
 * Introdução a Ciencia de Dados, conhecendo o Jupyter Notebook
